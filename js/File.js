@@ -1,3 +1,4 @@
 $(function(){
-    $( "#header" ).load( "../views/header.html" );
+    $( "#header" ).load( "views/header.html" );
+    $( "#Menu").load( "views/Menu.html" );
 });
