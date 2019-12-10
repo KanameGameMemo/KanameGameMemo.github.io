@@ -1,3 +1,12 @@
-h1 {
-    color : aqua;
+#HeaderNav {
+    float: left;
+}
+footer{
+    clear: both;
+}
+#HeaderNavMenuAccodion {
+    width: 250px;
+}
+#REDWord {
+    color: red;
 }
