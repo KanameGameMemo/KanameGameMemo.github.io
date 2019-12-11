@@ -7,6 +7,14 @@ footer{
 #HeaderNavMenuAccodion {
     width: 250px;
 }
-#REDWord {
+#HeaderNavMenuAccodion{
+    font-size: 15px;
+    width: 180px;
+}
+#HeaderNavMenuAccodion ul {
+    padding: 2px;
+}
+h3#REDWord {
+    margin:auto;
     color: red;
 }
