@@ -116,5 +116,17 @@
 </nav>
 </header>
 <script>
-    $("#HeaderNavMenuAccodion").accordion();
+    $("#HeaderNavMenuAccodion").accordion({
+        heightstyle: "content",
+        collapsible: "false"
+    });
 </script>
+<style>
+    #HeaderNavMenuAccodion{
+        font-size: 15px;
+        width: 150px;
+    }
+    #HeaderNavMenuAccodion ul {
+        padding: 2px;
+    }
+</style>
